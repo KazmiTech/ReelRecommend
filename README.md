@@ -1,10 +1,7 @@
+
 # 🎬 ReelRecommend
 
-<p align="center">
-  <img src="https://shields.io" alt="Python Version">
-  <img src="https://shields.io" alt="Frontend Tech">
-  <img src="https://shields.io" alt="Platforms">
-</p>
+![Python Version](https://shields.io) ![Frontend Tech](https://shields.io) ![Platforms](https://shields.io)
 
 ---
 
@@ -49,3 +46,4 @@ cd ~/storage/shared/Download
 python app.py
 ```
 *Note: Once triggered, copy the generated local file address link and paste it into any web browser layout to explore your application matrix.*
+
