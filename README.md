@@ -1,7 +1,8 @@
-
 # 🎬 ReelRecommend
 
-![Python Version](https://shields.io) ![Frontend Tech](https://shields.io) ![Platforms](https://shields.io)
+- **Language:** Python 3.10+
+- **Frontend:** HTML5 / CSS3
+- **Platforms:** Android / Windows
 
 ---
 
@@ -46,4 +47,3 @@ cd ~/storage/shared/Download
 python app.py
 ```
 *Note: Once triggered, copy the generated local file address link and paste it into any web browser layout to explore your application matrix.*
-
